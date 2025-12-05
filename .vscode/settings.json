@@ -1,0 +1,8 @@
+{
+  "editor.rulers": [79],
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.wordWrapColumn": 79,
+  "python.linting.enabled": true,
+  "python.linting.flake8Enabled": true,
+  "python.linting.flake8Args": ["--max-line-length=79"]
+}
